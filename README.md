@@ -1,1 +1,1 @@
-# Internet-connection-checker
+<https://simokitkat.github.io/Internet-connection-checker/>
