@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+h1 {
+    color: gray;
+}
+
+ul {
+    margin: 10px 0 15px;
+}
+
+li {
+    margin: 5px 0 0 50px;
+}
+
+button {
+    align-self: flex-start;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    background-color: grey;
+    color: white;
+    letter-spacing: 1px;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.hide {
+    display: none;
+}
